@@ -8,5 +8,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aossuper7)](https://github.com/aossuper7/github-readme-stats)
 <br><br><br>
 # 💪 Problem Solving 💪
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=aossuper8)](https://solved.ac/aossuper8)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=aossuper8)](https://solved.ac/aossuper8)
 </div>
