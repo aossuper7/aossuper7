@@ -1,5 +1,5 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=Hi!%20I'm%20JungMin!&fontSize=90">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=Hi!%20I'm%20JungMin!&fontSize=90"/>
 
 # 📚 Tech Stack 📚  
 <img src="https://img.shields.io/badge/C/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>  
@@ -9,5 +9,6 @@
 <br><br><br>
 # 💪 Problem Solving 💪
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=aossuper8)](https://solved.ac/aossuper8)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=aossuper8)](https://solved.ac/aossuper8)
+
 </div>
